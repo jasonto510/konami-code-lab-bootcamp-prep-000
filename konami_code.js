@@ -11,6 +11,14 @@ const codes = [
   "a"
 ];
 
+var i = 0;
+document.createElement('EventListener');
+
 function init() {
-  // your code here
+if ((key === code[index]) & (key ===code.length)){
+  return true;
+}
+
+while 
+  
 }
